@@ -1,0 +1,197 @@
+.bar{
+    background-color: #000000;
+    height: 4vh;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.bar-details{
+    color: darkgrey;
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 30px;
+}
+.fixed{
+    position: relative;
+}
+.bg-home{
+    background-color: #ffffff;
+    text-align: center;    
+}
+.main-head{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Roboto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.carousel-section{
+   padding-left: 180px;
+   padding-right: 180px;
+}
+.carousel-1{
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709300107/r1_astckk.jpg');
+    background-size: cover;
+    padding-top: 45px;
+    padding-left: 30px;
+    height: 85vh;
+    text-align: left;
+}
+.carousel-2{
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709300108/r2_rttpuh.jpg');
+    background-size: cover;
+    padding-top: 45px;
+    padding-left: 30px;
+    height: 85vh;
+    text-align: left;
+}
+.carousel-3{
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709300110/r4_ab0aae.jpg');
+    background-size: cover;
+    padding-top: 45px;
+    padding-left: 30px;
+    height: 85vh;
+    text-align: left;
+}
+.head-carousel{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 48px;
+    font-family: Bree serif;
+    margin-bottom: 10px;
+}
+.details-carousel{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.button-carousel{
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+    border-style: solid;
+    height: 50px;
+    width: 150px;
+    font-weight: 400;
+    text-align: center;
+}
+.cont-1{
+    text-align: right;
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709303497/r5_wziftd.jpg');
+    padding-top: 20px;
+    padding-right: 5px;
+    background-size: cover;
+    height: 180px;
+    width: 320px;
+}
+.cont-3{
+    text-align: right;
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709303497/r6_tuiuiz.jpg');
+    padding-top: 20px;
+    padding-right: 5px;
+    background-size: cover;
+    height: 180px;
+    width: 320px;
+}
+.cont-2{
+    text-align: left;
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709303497/r7_v0lott.jpg');
+    padding-top: 20px;
+    padding-left: 5px;
+    color: #ffffff;
+    background-size: cover;
+    height: 180px;
+    width: 320px;
+}
+.head-cont{
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.details-cont{
+    font-size: 20px;
+    font-weight: 400;
+}
+.link-cont{
+    color: #000000;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.category-pic{
+    height: 150px;
+    width: 160px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.carousel-card{
+    height: 320px;
+    width: 240px;
+
+}
+.new-arrival-pic{
+    height: 150px;
+    width: 180px;
+    margin-bottom: 10px;
+}
+.price-new{
+    color: green;
+    font-size: 18px;
+    font-style: italic;
+}
+.about-bg1{
+    background-color: #323f4b;
+    width: 50vh;
+    padding-top: 50px;
+    text-align: center;
+}
+.about-bg2{
+    background-image: url('https://res.cloudinary.com/dxo05iyyb/image/upload/v1709361062/r21_jxeouo.jpg');
+    background-size: cover;
+    width: 160vh;
+    margin-right: 0px;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.span{
+    font-weight: 600;
+    font-family: Roboto;
+}
+.mar{
+    margin-bottom: 150px;
+}
+.about-pic{
+    height: 200px;
+    width: 140px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.about-name{
+    font-size: 22px;
+    font-family: Bree serif;
+    color: white;
+    font-weight: 600;
+}
+
+.bg-contact{
+    background-color: #1d232b;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.input{
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+    height: 40px;
+    width: 360px;
+}
+.contact-details{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+}
